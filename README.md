@@ -51,7 +51,7 @@ Below Table Link containing information about each sections in details.
     - Amazon Textract Overview
   - [Amazon Kendra](./section/aws-managed-ai-services/aws-kendra.md)
     - Amazon Kendra Overview, Key Concepts
-  - [Amazon Mechanical Turk](./section/aws-managed-ai-services/aws-mechanical-turk.md)
+  - ~~[Amazon Mechanical Turk](./section/aws-managed-ai-services/aws-mechanical-turk.md)~~[Deprecated as of September 30th 2026](https://www.mturk.com/help)
     - Amazon Mechanical Turk Overview
   - [Amazon Augmented AI (A2I)](./section/aws-managed-ai-services/aws-augmented-ai.md)
     - Amazon Augmented AI (A2I) Overview
